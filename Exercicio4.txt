@@ -1,3 +1,8 @@
+Desenvolvido por Gael Felix e Guilherme Francisco
+
+Exercício 04 (2,0)
+• Escreva todo o resultado obtido no exercício 3 em um arquivo texto.
+
 Dados da consulta p1:
 Paciente: Gael
 Dia 26/06/2026 às 14:45:30
