@@ -1,5 +1,7 @@
 package TPP2;
 
+// Desenvolvido por Gael Felix e Guilherme Francisco
+
 import java.util.Scanner;
 
 public class Hora{
