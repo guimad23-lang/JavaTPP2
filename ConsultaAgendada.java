@@ -1,5 +1,8 @@
 package TPP2;
 
+// Desenvolvido por Gael Felix e Guilherme Francisco
+// Crie a classe ConsultaAgendada conforme especificado (2,0):
+
 import java.util.Scanner;
 
 public class ConsultaAgendada{
