@@ -1,0 +1,51 @@
+Dados da consulta p1:
+Paciente: Gael
+Dia 26/06/2026 às 14:45:30
+Médico: Guilherme
+
+----- Inserindo os dados da consulta p2 -----
+Digite o dia:
+27
+Digite o mês:
+6
+Digite o ano:
+2026
+Digite a hora (entre 0 e 23):
+9
+Agora digite os minutos (entre 0 e 59):
+30
+Finalmente, digite os segundos (entre 0 e 59):
+0
+Digite o nome do paciente:
+Guilherme
+Insira o nome do médico:
+Gael
+Dados da consulta p2:
+Paciente: Guilherme
+Dia 27/06/2026 às 09:30:00
+Médico: Gael
+
+----- Atualizando os dados da consulta p1 -----
+Digite o nome do paciente:
+Gael
+Digite o novo dia:
+1
+Digite o novo mês:
+7
+Digite o novo ano:
+2026
+Digite a hora (entre 0 e 23):
+11
+Digite os minutos (entre 0 e 59):
+0
+Digite os segundos (entre 0 e 59):
+0
+Digite o nome do médico:
+Guilherme
+
+Dados atualizados da consulta p1:
+Paciente: Gael
+Dia 01/07/2026 às 11:00:00
+Médico: Guilherme
+
+Total de consultas: 2
