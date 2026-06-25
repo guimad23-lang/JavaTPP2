@@ -1,5 +1,21 @@
 package TPP2;
 
+// Desenvolvido por Gael Felix e Guilherme Francisco 
+/* Exercício 03 (2,0)
+Para testar a classe criada siga os passos abaixo respeitando a ordem em que eles
+serão solicitados:
+• Usando a classe ConsultaAgendada instancie o objeto p1 inicializado-o com o
+construtor ConsultaAgendada (int h, int mi, int s, int d, int m, int a, String p, String
+m);
+• Exiba todas as propriedades de p1;
+• Agora instancie o objeto p2 usando o construtor ConsultaAgendada ();
+• Exiba todas as propriedades de p2;
+• Usando os métodos setData(), setHora(), setNomePaciente(), setNomeMedico altere
+as propriedades de p1;
+• Exiba todas as propriedades de p1 novamente.
+• Exiba a quantidade final de consultas.
+*/
+
 public class Exercicio3{
 	public static void main(String[] args){
 
